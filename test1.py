@@ -1,7 +1,7 @@
 import platform
 import psutil
 
-//coment
+#coment
 def get_system_info():
 
     system = platform.system()
